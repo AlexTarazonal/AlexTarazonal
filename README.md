@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alex Tarazona  
+💻 Desarrollador Full Stack | Apasionado por el código limpio y escalable  
+🚀 Enfocado en crear soluciones web modernas con React, NestJS y MySQL
 
-<!--
-**AlexTarazonal/AlexTarazonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador full stack con experiencia en la construcción de aplicaciones web robustas, rápidas y bien diseñadas. He trabajado en plataformas de eventos, dashboards administrativos, autenticación segura y sistemas de gestión de usuarios y permisos. Disfruto transformar ideas complejas en productos funcionales, escalables y con buen diseño de interfaz.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Frontend:**  
+React, Vite, Tailwind CSS, Zustand, React Hook Form, React Router, Axios, React Query
+
+**Backend:**  
+Node.js, NestJS (Fastify), Prisma, Express, Sequelize, JWT, Bcrypt
+
+**Base de Datos:**  
+MySQL, PostgreSQL, SQL Server
+
+**DevOps & Herramientas:**  
+Docker & Docker Compose, Git & GitHub, GitHub Actions, Redis, Postman, Figma, ESLint, Prettier
+
+**Otros Lenguajes:**  
+JavaScript / TypeScript, Python, C++, C#, HTML5 / CSS3
+
+---
+
+## 💡 En qué destaco
+
+✅ Desarrollo de APIs REST seguras y documentadas  
+✅ Arquitectura modular y escalable con NestJS  
+✅ Sistemas con autenticación, permisos y roles  
+✅ CI/CD, Docker y despliegues eficientes  
+✅ UI/UX modernas con React y Tailwind  
+✅ Internacionalización (i18n), dark/light mode, animaciones
+
+---
+
+## 📫 Conecta conmigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-tarazona)
+- 📧 Email: alex.tarazona.dev@gmail.com
+
+---
+
+🚀 *Siempre aprendiendo, siempre construyendo. ¡Hablemos y creemos algo increíble juntos!*
