@@ -98,7 +98,8 @@ Me apasiona transformar ideas complejas en productos **funcionales, escalables y
     src="https://github-readme-stats-gilt-seven-25.vercel.app/api?username=AlexTarazonal&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
     height="165"
   />
-  <img src="https://images.weserv.nl/?url=github-readme-stats-gilt-seven-25.vercel.app/api/top-langs/?username=AlexTarazonal&layout=compact" />
+ <img src="https://github-readme-stats-gilt-seven-25.vercel.app/api?username=AlexTarazonal&count_private=true&show_icons=true&theme=radical" />
+
 
 </p>
 
