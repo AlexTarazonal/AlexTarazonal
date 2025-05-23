@@ -91,25 +91,13 @@ Me apasiona transformar ideas complejas en productos **funcionales, escalables y
 
 ---
 
-### 📈 Estadísticas
+### 📊 Actividad reciente
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-gilt-seven-25.vercel.app/api?username=AlexTarazonal&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
-    height="165"
-  />
-  <img
-  src="https://github-readme-stats-gilt-seven-25.vercel.app/api/top-langs/?username=AlexTarazonal&layout=compact&hide_border=true&theme=radical&count_private=true&include_all_commits=true"
-  height="165"
-/>
-</p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AlexTarazonal&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=AlexTarazonal&theme=radical"
-    height="165"
-  />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexTarazonal&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexTarazonal&theme=github-compact)
+
 
 
 ---
